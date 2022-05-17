@@ -43,6 +43,7 @@ Es un pequeño detalle que hay que revisarlo pero se realiza la consulta correct
 ![Filtro]![image](https://user-images.githubusercontent.com/22803577/168736382-088538dc-d292-43d7-bb5c-8a4bcdf324a1.png)
 
 ##Funciones CRUD que realiza tanto para libros y categorías
+
 - Creación de libros
 ![Crear libro] ![image](https://user-images.githubusercontent.com/22803577/168736750-6594a191-219e-4b26-bca7-3ad4f3212767.png)
 - Edición de libros
