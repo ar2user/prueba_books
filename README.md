@@ -32,6 +32,6 @@ donde se valla a ejecutar.
 Dicha ruta se encuentra en la carpeta config/livewire/ linea 57 asset_url' => 'http://localhost/libros/public',
 reemplazar http://localhost/libros/public por la ruta del hosting
 
-![Ruta para reemplzar ](image.png) 
 
+![Ruta de reemplazo]![image](https://user-images.githubusercontent.com/22803577/168735814-f7a057a3-411f-480c-a988-1019f1d9f54a.png)
 
