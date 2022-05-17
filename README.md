@@ -3,6 +3,7 @@ Una aplicación desarrollada en Laravel para realizar consultas CRUD en libros y
 
 ## Tecnológias usadas
 - Laravel 9
+- JetStream
 - Livewire
 - Tailwind
 - Node Js
@@ -22,6 +23,13 @@ Una aplicación desarrollada en Laravel para realizar consultas CRUD en libros y
 - PHP
 - Node Js
 
-## 
+## Cambios a realizar para su ejecución
+Para que se cargen las funciones de livewire hay que cambiar la ruta del la APP o hosting
+donde se valla a ejecutar.
+
+Dicha ruta se encuentra en la carpeta config/livewire/ linea 57 asset_url' => 'http://localhost/libros/public',
+reemplazar http://localhost/libros/public por la ruta del hosting
+
+image.png
 
 
