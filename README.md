@@ -18,6 +18,8 @@ Una aplicación desarrollada en Laravel para realizar consultas CRUD en libros y
 - PHP
 
 ## Requerimientos técnicos para su ejecución
+Tener versiones recientes de:
+
 - Apache Server
 - Gestor de bases de datos SQL
 - PHP
@@ -30,6 +32,6 @@ donde se valla a ejecutar.
 Dicha ruta se encuentra en la carpeta config/livewire/ linea 57 asset_url' => 'http://localhost/libros/public',
 reemplazar http://localhost/libros/public por la ruta del hosting
 
-image.png
+![Ruta para reemplzar ](image.png) 
 
 
