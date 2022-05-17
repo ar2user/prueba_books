@@ -42,4 +42,13 @@ El filtro de categorias AJAX puede mostrar 1 categoría a la vez, aun que esten 
 Es un pequeño detalle que hay que revisarlo pero se realiza la consulta correctamente 
 ![Filtro]![image](https://user-images.githubusercontent.com/22803577/168736382-088538dc-d292-43d7-bb5c-8a4bcdf324a1.png)
 
+##Funciones CRUD que realiza tanto para libros y categorías
+- Creación de libros
+![Crear libro] ![image](https://user-images.githubusercontent.com/22803577/168736750-6594a191-219e-4b26-bca7-3ad4f3212767.png)
+- Edición de libros
+![Editar libros] ![image](https://user-images.githubusercontent.com/22803577/168736848-f9b59cd7-30bb-4c25-b059-118acf64262b.png)
+- Eliminar Libros
+![libros delete] ![image](https://user-images.githubusercontent.com/22803577/168736964-021f594f-3e1c-4530-91ae-e30de4379713.png)
+- Enlistar libros
+![list books] ![image](https://user-images.githubusercontent.com/22803577/168737016-15419c45-9e87-4322-8483-04c3a0e428e0.png)
 
